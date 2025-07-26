@@ -1,7 +1,7 @@
 # Jarvis Module
 
 ## Overview
-The `jarvis` module is a component of the [anmol](https://github.com/anmolsaini7055/anmol) repository. It provides tools and scripts for task automation, data management, and utility functions that support the broader application.
+The `jarvis` module is a component of the [JARVIS](https://github.com/anmolsaini7055/anmol) repository. It provides tools and scripts for task automation, data management, and utility functions that support the broader application.
 
 ## Contents
 
